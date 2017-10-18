@@ -1,12 +1,11 @@
-# Python: Getting Started
+# Diwali Lights
 
-A barebones Django app, which can easily be deployed to Heroku.
-
-This application supports the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article - check it out.
+A barebones Django app to control the diwali lights in my home using a MQTT network deployed on CloudMQTT and an ESP32 and Heroku.
+Derived from the Heroku's Python getting started app.
 
 ## Running Locally
 
-Make sure you have Python [installed properly](http://install.python-guide.org).  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/) and [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup).
+Make sure you have Python [installed properly](http://install.python-guide.org).  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/)
 
 ```sh
 $ git clone git@github.com:heroku/python-getting-started.git
