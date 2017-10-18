@@ -1,6 +1,6 @@
 # Diwali Lights
 
-A barebones Django app to control the diwali lights in my home using a MQTT network deployed on CloudMQTT and an ESP32 and Heroku.
+A barebones Django app to control the diwali lights in my home using a MQTT network deployed using CloudMQTT and an ESP32 and Heroku.
 Derived from the Heroku's Python getting started app.
 
 ## Running Locally
