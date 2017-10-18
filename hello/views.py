@@ -6,7 +6,7 @@ from .models import Greeting
 import paho.mqtt.client as mqtt
 #import urlparse
 
-topic = '/lights'
+topic = '/diwalilights'
 
 # Define event callbacks
 def on_publish(client, obj, mid):
